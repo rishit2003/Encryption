@@ -9,10 +9,10 @@ values into their corresponding ascii values via recursion. This method encorpor
 ideally we would also add a mobile, web interface, or any sort of gui, in order to increase usability and make users happy.
 
 main implementations :
-incrpytion method
+encryption method
 decryption method
 password strength evaluation based on typical bad password habits :
-this would display the type of vulnerbilities a user might have for a given password, so they would know how to improve it 
+this would display the type of vulnerabilities a user might have for a given password, so they would know how to improve it 
 while also not forcing the user to change it 
 
 
